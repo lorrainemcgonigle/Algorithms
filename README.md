@@ -1,2 +1,7 @@
 # Algorithms
-Implementation code for various algorithms
+
+Code for some simple algorithms
+
+Editor : Netbeans,
+
+Language : Java
